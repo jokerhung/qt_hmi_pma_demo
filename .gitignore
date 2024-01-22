@@ -1,0 +1,8 @@
+# build files
+MDK-ARM/IBS_V2/*
+env/*
+venv/*
+*.pyproject.user
+*.user*
+*.log
+*.log.*

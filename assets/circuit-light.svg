@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="-248.914 -29.904 1066.358 487.403" xmlns="http://www.w3.org/2000/svg">
+  <rect y="166.098" width="100" height="67.165" style="stroke: rgb(0, 0, 0); fill: rgb(72, 158, 235);" rx="10.649" ry="10.649" x="-224.044" transform="matrix(1, 0, 0, 1, 5.684341886080802e-14, 0)"/>
+  <rect x="75.956" y="56.012" width="400" height="300" style="stroke: rgb(0, 0, 0); fill: none;" transform="matrix(1, 0, 0, 1, 5.684341886080802e-14, 0)"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="75.804" y1="156.303" x2="475.956" y2="156.012" transform="matrix(1, 0, 0, 1, 5.684341886080802e-14, 0)"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="76.479" y1="256.964" x2="475.956" y2="256.012" transform="matrix(1, 0, 0, 1, 5.684341886080802e-14, 0)"/>
+  <polygon style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" points="-75.515 171.259 -74.864 234.267 -24.044 199.886" transform="matrix(1, 0, 0, 1, 5.684341886080802e-14, 0)"/>
+  <polygon style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" points="115.956 27.282 116.607 90.29 167.427 55.909"/>
+  <polygon style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" points="115.956 127.006 116.607 190.014 167.427 155.633"/>
+  <polygon style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" points="115.956 227.949 116.607 290.957 167.427 256.576"/>
+  <polygon style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" points="115.956 327.568 116.607 390.576 167.427 356.195"/>
+  <rect y="164.751" width="100" height="67.165" style="stroke: rgb(0, 0, 0); fill: rgb(72, 158, 235);" rx="10.649" ry="10.649" x="543.287" transform="matrix(1, 0, 0, 1, 5.684341886080802e-14, 0)"/>
+  <rect y="165.863" width="100" height="67.165" style="stroke: rgb(0, 0, 0); fill: rgb(72, 158, 235);" rx="10.649" ry="10.649" x="675.956" transform="matrix(1, 0, 0, 1, 5.684341886080802e-14, 0)"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="-25.172" y1="200.441" x2="75.371" y2="200" transform="matrix(1, 0, 0, 1, 5.684341886080802e-14, 0)"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="-124.526" y1="200.375" x2="-75.146" y2="200" transform="matrix(1, 0, 0, 1, 5.684341886080802e-14, 0)"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="476.304" y1="200.423" x2="543.215" y2="200" transform="matrix(1, 0, 0, 1, 5.684341886080802e-14, 0)"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="643.306" y1="200.423" x2="675.932" y2="200" transform="matrix(1, 0, 0, 1, 5.684341886080802e-14, 0)"/>
+</svg>

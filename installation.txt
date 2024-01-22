@@ -1,0 +1,8 @@
+sudo apt-get install qtcreator
+sudo apt install qtbase5-dev qtchooser qt5-qmake qtbase5-dev-tools
+sudo apt-get install libqt5serialport5-dev
+sudo apt-get install -y qml-module-qtquick-extras
+sudo apt-get install qtdeclarative5-dev
+sudo apt-get install git-cola
+=========================================
+Change compiler in QT to gcc

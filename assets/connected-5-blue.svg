@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" stroke-width="0.00016">
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="SVGRepo_bgCarrier" stroke-width="0"/>
+  <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"/>
+  <g id="SVGRepo_iconCarrier">
+   <g data-name="Layer 2" id="Layer_2">
+    <g data-name="Layer 1" id="Layer_1-2">
+     <path d="m15.5,10l-2.5,0l0,-2.5a0.5,0.5 0 0 0 -0.5,-0.5l-4,0l0,-2l2,0a0.5,0.5 0 0 0 0.5,-0.5l0,-4a0.5,0.5 0 0 0 -0.5,-0.5l-5,0a0.5,0.5 0 0 0 -0.5,0.5l0,4a0.5,0.5 0 0 0 0.5,0.5l2,0l0,2l-4,0a0.5,0.5 0 0 0 -0.5,0.5l0,2.5l-2.5,0a0.5,0.5 0 0 0 -0.5,0.5l0,5a0.5,0.5 0 0 0 0.5,0.5l6,0a0.5,0.5 0 0 0 0.5,-0.5l0,-5a0.5,0.5 0 0 0 -0.5,-0.5l-2.5,0l0,-2l8,0l0,2l-2.5,0a0.5,0.5 0 0 0 -0.5,0.5l0,5a0.5,0.5 0 0 0 0.5,0.5l6,0a0.5,0.5 0 0 0 0.5,-0.5l0,-5a0.5,0.5 0 0 0 -0.5,-0.5zm-9.5,-9l4,0l0,3l-4,0l0,-3zm0,14l-5,0l0,-4l5,0l0,4zm9,0l-5,0l0,-4l5,0l0,4z" fill="#0000ff" id="svg_1"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
