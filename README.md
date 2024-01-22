@@ -1,5 +1,5 @@
 
-# Jabra-Speaker-Connect-Project
+# HMI_PMA_DEMO
 HMI for Power Amplifier Device using QT/QML
 
 ## Dark Mode
