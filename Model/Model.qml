@@ -22,5 +22,5 @@ QtObject {
     property double p4_current: 4
     property int p4_voltage: 124
     property int power_state: 1
-    property int fan_mode: 1
+    property int fan_mode: 0
 }

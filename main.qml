@@ -281,16 +281,7 @@ Window {
                 height: 40
                 color: "#0000ff00"
 
-                Image {
-                    id: imageLogo
-                    source: Theme.isDarkMode ? "assets/vnes_logo_light.png" : "assets/vnes_logo.png"
-                    anchors.verticalCenter: parent.verticalCenter
-                    anchors.horizontalCenter: parent.horizontalCenter
-                    width: 100
-                    height: 25
-                }
-
-                /*Label {
+                Label {
                     id: labelDemo
                     color: Theme.textColorValue
                     text: qsTr("High PA System")
@@ -302,7 +293,7 @@ Window {
                     font.pixelSize: 20
                     anchors.leftMargin: 10
                     opacity: 0.8
-                }*/
+                }
             }
 
             Rectangle {

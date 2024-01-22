@@ -105,6 +105,7 @@ void BackEnd::power(int state)
 void BackEnd::setFan(int speed)
 {
     m_fanSpeed = speed;
+    UpdateGUI_FanSpeed(m_fanSpeed);
 }
 
 void BackEnd::UpdateGUI_SensorData(const QString &s)
@@ -169,6 +170,7 @@ void BackEnd::processTcpRequest(qintptr socketDescriptor, const QString &req)
             QJsonObject reqParamJson = Util::getInstance()->StringToJson(reqParamString);
             if(reqParamJson["speed"].toInt() >=1 && reqParamJson["speed"].toInt() <=3 ) {
                 m_fanSpeed = reqParamJson["speed"].toInt();
+                UpdateGUI_FanSpeed(m_fanSpeed);
                 // send response
                 m_tcpServer.sendMessage(socketDescriptor,m_cmd.buildTcpResp("resp","success"));
             } else {
