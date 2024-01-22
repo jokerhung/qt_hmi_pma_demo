@@ -1,22 +1,23 @@
 
 # Jabra-Speaker-Connect-Project
-Jabra Speaker Connect Project
+HMI for Power Amplifier Device using QT/QML
 
-## Design screen
-![alt text](https://github.com/cppqtdev/Jabra-Speaker-Connect-Project/blob/main/Assets/ScreenShots/jabra1.png?raw=true)
+## Dark Mode
+### Dashboard screen
+![alt text](https://github.com/jokerhung/qt_hmi_pma_demo/blob/main/picture/screen_dark_darhboard.jpg?raw=true)
 
-## Projects screen 1
-![alt text](https://github.com/cppqtdev/Jabra-Speaker-Connect-Project/blob/main/Assets/ScreenShots/jabra2.png?raw=true)
-## Projects screen 2
-![alt text](https://github.com/cppqtdev/Jabra-Speaker-Connect-Project/blob/main/Assets/ScreenShots/jabra3.png?raw=true)
+### Monitor screen
+![alt text](https://github.com/jokerhung/qt_hmi_pma_demo/blob/main/picture/screen_dark_monitor.jpg?raw=true)
 
-## Projects screen 3
-![alt text](https://github.com/cppqtdev/Jabra-Speaker-Connect-Project/blob/main/Assets/ScreenShots/jabra4.png?raw=true)
-## Projects screen 4
-![alt text](https://github.com/cppqtdev/Jabra-Speaker-Connect-Project/blob/main/Assets/ScreenShots/jabra5.png?raw=true)
+### Setting screen
+![alt text](https://github.com/jokerhung/qt_hmi_pma_demo/blob/main/picture/screen_dark_settings.jpg?raw=true)
 
-## Projects screen 5
-![alt text](https://github.com/cppqtdev/Jabra-Speaker-Connect-Project/blob/main/Assets/ScreenShots/jabra6.png?raw=true)
-## Projects screen 6
-![alt text](https://github.com/cppqtdev/Jabra-Speaker-Connect-Project/blob/main/Assets/ScreenShots/jabra7.png?raw=true)
+## Light Mode
+### Dashboard screen
+![alt text](https://github.com/jokerhung/qt_hmi_pma_demo/blob/main/picture/screen_light_darhboard.jpg?raw=true)
 
+### Monitor screen
+![alt text](https://github.com/jokerhung/qt_hmi_pma_demo/blob/main/picture/screen_light_monitor.jpg?raw=true)
+
+### Setting screen
+![alt text](https://github.com/jokerhung/qt_hmi_pma_demo/blob/main/picture/screen_light_settings.jpg?raw=true)
